@@ -1,0 +1,10 @@
+C:\Users\Andres\radixdlt-scrypto\identidad3\target\release\deps\sbor_derive-ca2b232ae72fc319.dll: C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\lib.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\decode.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\describe.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\encode.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\type_id.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\utils.rs
+
+C:\Users\Andres\radixdlt-scrypto\identidad3\target\release\deps\sbor_derive-ca2b232ae72fc319.d: C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\lib.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\decode.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\describe.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\encode.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\type_id.rs C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\utils.rs
+
+C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\lib.rs:
+C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\decode.rs:
+C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\describe.rs:
+C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\encode.rs:
+C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\type_id.rs:
+C:\Users\Andres\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\7cb4af0\sbor-derive\src\utils.rs:

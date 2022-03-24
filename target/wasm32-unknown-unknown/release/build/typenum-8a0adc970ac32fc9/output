@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\Andres\radixdlt-scrypto\identidad3\target\wasm32-unknown-unknown\release\build\typenum-8a0adc970ac32fc9\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\Andres\radixdlt-scrypto\identidad3\target\wasm32-unknown-unknown\release\build\typenum-8a0adc970ac32fc9\out\op.rs
